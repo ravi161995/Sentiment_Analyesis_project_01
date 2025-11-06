@@ -5,3 +5,4 @@
 *.bin
 *.ckpt
 *.csv
+data/
