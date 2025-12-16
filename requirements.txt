@@ -6,3 +6,8 @@ transformers
 streamlit
 tf_keras
 torch
+joblib
+fastapi
+pydantic
+uvicorn
+streamlit
